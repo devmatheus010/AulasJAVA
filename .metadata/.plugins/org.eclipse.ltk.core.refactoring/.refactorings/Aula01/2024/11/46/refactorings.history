@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Renomear o pacote &apos;Aula01&apos; para &apos;aula01&apos;&#x0D;&#x0A;- Original project: &apos;Aula01&apos;&#x0D;&#x0A;- Elemento original: &apos;Aula01/src/Aula01&apos;&#x0D;&#x0A;- Elemento renomeado: &apos;Aula01/src/aula01&apos;&#x0D;&#x0A;- Atualizar referências para elemento recriado&#x0D;&#x0A;- Atualizar ocorrências textuais em comentários e cadeias" description="Renomear pacote &apos;Aula01&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Aula01" name="aula01" qualified="false" references="true" stamp="1731432990173" textual="false" version="1.0"/>
+</session>
