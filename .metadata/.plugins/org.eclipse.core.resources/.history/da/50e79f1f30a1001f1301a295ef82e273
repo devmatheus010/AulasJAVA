@@ -1,0 +1,22 @@
+package aula01;
+
+import java.util.Scanner;
+
+public class Exercicio02 {
+
+	public static void main(String[] args) {
+		Scanner numero = new Scanner(System.in);
+		int a, b, c;
+		
+		System.out.println("Primeiro número: ");
+		a = numero.nextInt();
+		
+		System.out.println("Segundo número: ");
+		b = numero.nextInt();
+		
+		System.out.println("Terceiro número: ");
+		c = numero.nextInt();
+		
+	}
+
+}

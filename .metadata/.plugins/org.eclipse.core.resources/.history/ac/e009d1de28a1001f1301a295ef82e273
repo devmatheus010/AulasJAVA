@@ -1,0 +1,10 @@
+package aula01;
+
+public class Condição1 {
+
+	public static void main(String[] args) {
+		// TODO Stub de método gerado automaticamente
+
+	}
+
+}
