@@ -1,0 +1,21 @@
+package Fundamentos02;
+
+public class Multiplos02 {
+	public static void main(String[] args) {
+		int total = 0;
+		int soma5 = 1;
+		int soma3 = 1;
+
+		for(soma3 = 1; soma3<=20; soma3++) {
+			if(soma3 % 3 == 0) {
+				System.out.println(soma3);
+				
+			}if (soma5 % 5 == 0) {
+				System.out.println(soma5);
+			}
+		}
+		total = soma3 + soma5;
+		System.out.println(total);
+	}
+
+}
