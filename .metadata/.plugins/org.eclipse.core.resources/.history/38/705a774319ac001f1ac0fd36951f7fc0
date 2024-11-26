@@ -1,0 +1,12 @@
+package Fundamentos02;
+
+public class Array02 {
+	public static void main(String[] args) {
+		int total = 0;
+		
+		for(int i : arrayNum)
+			total +=i;
+			System.out.println("Soma dos elementos arrayNum: %d\n", total);
+		
+	}
+}

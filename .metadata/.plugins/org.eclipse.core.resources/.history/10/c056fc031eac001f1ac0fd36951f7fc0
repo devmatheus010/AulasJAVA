@@ -1,0 +1,21 @@
+package Fundamentos02;
+
+import java.util.Scanner;
+
+public class Array03 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int num = sc.nextInt();
+		int arrayUm[] = new int[4];
+		int arrayDois[] = new int[4];
+		int arrayTres[] = new int[4];
+		int arrayQuatro[] = new int[4];
+		
+		for (int i : arrayUm) {
+			System.out.print("Digite um numero para o array: ");
+			System.out.println(arrayUm[i]);
+			
+		}
+	}
+
+}
