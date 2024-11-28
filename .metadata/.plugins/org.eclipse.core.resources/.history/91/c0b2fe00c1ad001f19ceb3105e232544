@@ -1,0 +1,11 @@
+package Fundamentos03;
+
+public class ArrayEx {
+	public static void main(String[] args) {
+		String[] a = {"a", "vida", "é", "bela"};
+		
+		for(int i = 0; i <a.length; i++)
+			System.out.println(a[i]);
+		
+	}
+}

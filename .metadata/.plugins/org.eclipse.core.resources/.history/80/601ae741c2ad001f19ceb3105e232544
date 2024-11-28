@@ -1,0 +1,15 @@
+package Fundamentos03;
+
+public class ArrayEx {
+	public static void main(String[] args) {
+		String[] a = {"a", "vida", "é", "bela"};
+		String texto = new String();
+		
+		for(int i = 0; i <a.length; i++) {
+			texto+= a[i].toUpperCase() + " ";
+		}
+		
+		System.out.println(texto);
+		
+	}
+}

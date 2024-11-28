@@ -1,0 +1,9 @@
+package Fundamentos03;
+
+public class ArrayEx {
+	public static void main(String[] args) {
+		String[] a = {"a", "vida", "é", "bela"};
+		System.out.println(a.length);
+
+	}
+}

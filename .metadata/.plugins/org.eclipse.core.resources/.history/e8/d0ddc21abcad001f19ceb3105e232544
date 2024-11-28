@@ -1,0 +1,10 @@
+package Fundamentos03;
+import java.util.StringTokenizer;
+
+public class ContarPalavras {
+	public static void main(String[] args) {
+		StringTokenizer texto = new StringTokenizer("Java eh foa bixo");
+		System.out.println(texto.countTokens());
+		
+	}
+}

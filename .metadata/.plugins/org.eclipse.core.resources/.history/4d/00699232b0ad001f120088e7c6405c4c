@@ -1,0 +1,34 @@
+package Fundamentos03;
+
+public class Maiusculo {
+	public static void main(String[] args) {
+		String str = "Hello";
+		String resultado = str.toUpperCase(); 
+		System.out.println(resultado);
+		
+		String str1 = "Hello";
+		String resultado1 = str.toLowerCase();
+		System.out.println(resultado1);
+		
+		String str2 = "Matheus";
+		String resultado2 = str2.trim();
+		System.out.println(resultado2);
+		
+		String str3 = "Matheus";
+		char c = str3.charAt(4);
+		System.out.println(c);
+		
+		String s1 = "Hello";
+		String s2 = "HELLO";
+		boolean b1 = s1.equals("Hello");
+		boolean b2 = s2.equals(s2);
+		boolean b3 = s1.equalsIgnoreCase(s2);
+		boolean b4 = s1.equalsIgnoreCase("Azul");
+		
+		
+		
+		
+	
+	
+	}
+}
